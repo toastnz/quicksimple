@@ -1,0 +1,29 @@
+---
+Name: myicons
+---
+TaxonomyAdmin:
+  icon: 'label_outline'
+
+ProductCatalogAdmin:
+  icon: 'shopping_cart'
+
+OrdersAdmin:
+  icon: 'shopping_basket'
+
+ZoneAdmin:
+  icon: 'map'
+
+ShippingMethodAdmin:
+  icon: 'local_shipping'
+
+DiscountModelAdmin:
+  icon: 'loyalty'
+
+RedirectedURLAdmin:
+  icon: 'compare_arrows'
+
+SubsiteAdmin:
+  icon: 'call_merge'
+
+PromoAdmin:
+  icon: 'stars'
