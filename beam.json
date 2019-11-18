@@ -45,9 +45,9 @@
 	},
 	"servers": {
 		"live":{
-			"user": "shadesdirect",
-            "host": "whm.toastdigital.nz",
-            "webroot": "/home/shadesdirect/public_html",
+			"user": "site",
+            "host": "host",
+            "webroot": "path",
             "syncPermissions": false
 		}
 	},
